@@ -2,4 +2,3 @@
 
 shell scripting topics
 ---------
-hi
